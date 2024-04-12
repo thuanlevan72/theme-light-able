@@ -1,0 +1,25 @@
+<%- include ('../partials/main') %>
+
+<head>
+    <%- include ('../partials/title-meta') %>
+    <%- HeaderCss %>
+    <%- include ('../partials/head-css') %>
+</head>
+<%- include ('../partials/body') %>
+    <%- include('../partials/loader.ejs') %>
+    <%- include('../partials/sidebar.ejs') %>
+    <%- include('../partials/topbar.ejs') %>
+    <!-- [ Main Content ] start -->
+    <div class="pc-container">
+        <div class="pc-content">
+            <%- body%>
+        </div>
+    </div>
+
+    <%- include ('../partials/footer-block') %>
+    <%- include ('../partials/customizer') %>
+    <%- include ('../partials/footer-js') %>
+    <%- FooterJs %>
+</body>
+
+</html>

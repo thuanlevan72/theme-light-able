@@ -1,0 +1,31 @@
+{% extends "partials/layout-component.html" %} {% load static %}
+{% block css1 %}
+<link rel="stylesheet" href={% static "/css/plugins/introjs.min.css" %} />
+{% endblock css1 %}
+{% block content %}
+<div class="row">
+  <!-- [ rangeslider ] start -->
+  <div class="col-sm-12">
+    <div class="card step1">
+      <div class="card-header step2">
+        <h5 class="step3">Hello card</h5>
+      </div>
+      <div class="card-body step4">
+        <h1>H1 Admin Template</h1>
+        <h2>H2 Admin Template</h2>
+        <h3>H3 Admin Template</h3>
+        <h4>H4 Admin Template</h4>
+        <h5>H5 Admin Template</h5>
+        <h6>H6 Admin Template</h6>
+        <p>p Admin Template</p>
+        <strong>p Admin Template</strong>
+      </div>
+    </div>
+  </div>
+  <!-- [ rangeslider ] end -->
+</div>
+{% endblock content %}
+{% block js2 %}
+<script src={% static "/js/plugins/intro.min.js" %}></script>
+<script src={% static "/js/pages/ac-tour.js" %}></script>
+{% endblock js2 %}

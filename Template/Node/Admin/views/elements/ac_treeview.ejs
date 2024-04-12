@@ -1,0 +1,28 @@
+<%- contentFor('HeaderCss') %>
+<!-- jstree css -->
+<link rel="stylesheet" href="/assets/css/plugins/vanillatree.css">
+  <%- contentFor('body') %>
+    <!-- [ Main Content ] start -->
+    <div class="row">
+      <%- include('../partials/component/component-breadcrumb',{title:'Tree View',text:'Standalone tree view library',link:'https://github.com/finom/vanillatree'})%>
+    </div>
+    <!-- [ Main Content ] start -->
+    <div class="row">
+      <!-- [ rangeslider ] start -->
+      <div class="col-sm-12">
+        <div class="card">
+          <div class="card-header">
+            <h5>HTML Demo</h5>
+          </div>
+          <div class="card-body">
+            <div id="tree-demo"> </div>
+            <p id="tree-msg"></p>
+          </div>
+        </div>
+      </div>
+      <!-- [ rangeslider ] end -->
+    </div>
+    <!-- [ Main Content ] end -->
+    <%- contentFor ('FooterJs') %>
+    <script src="/assets/js/plugins/vanillatree.min.js"></script>
+    <script src="/assets/js/pages/ac-treeview.js"></script>

@@ -1,0 +1,35 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+<!-- [Head] start -->
+
+<head>
+  {% include './component/head-page-meta.html' %}
+  <!-- map-vector css -->
+  {% block css1 %} {% endblock %}
+  {% include './component/head-css.html' %}
+  {% block css2 %} {% endblock %}
+</head>
+<!-- [Head] end -->
+
+<body data-pc-preset="preset-1" data-pc-sidebar-theme="light" data-pc-sidebar-caption="true" data-pc-direction="ltr"
+  data-pc-theme="light" data-pc-layout="horizontal" data-new-gr-c-s-check-loaded="8.911.0" data-gr-ext-installed="">
+  {% include './component/layout-vertical.html' %}
+  <!-- [ Main Content ] start -->
+  <div class="pc-container">
+    <div class="pc-content">
+      {% include './component/breadcrumb.html' %}
+      {% block content %} {% endblock %}
+    </div>
+  </div>
+  <!-- [ Main Content ] end -->
+  {% block content2 %}{% endblock %}
+  {% include './component/footer-block.html' %}
+  {% include './component/customizer.html' %}
+  {% include './component/footer-js.html' %}
+  {% block js2 %} {% endblock %}
+  <script src={% static "/js/layout-horizontal.js" %}></script>
+</body>
+<!-- [Body] end -->
+
+</html>

@@ -1,0 +1,2785 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\landing.css",
+      "PackagePath": "staticwebassets\\assets\\css\\landing.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\animate.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\autoFill.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\autoFill.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\bootstrap-slider.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\bootstrap-slider.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\bootstrap-switch-button.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\bootstrap-switch-button.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\buttons.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\buttons.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\colReorder.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\colReorder.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\croppr.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\croppr.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\datepicker-bs5.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\datepicker-bs5.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\dragula.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\dragula.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\dropzone.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\fixedColumns.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\fixedColumns.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\fixedHeader.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\fixedHeader.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\flatpickr.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\introjs.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\introjs.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\jsvectormap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\jsvectormap.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\keyTable.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\keyTable.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\notifier.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\notifier.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\prism-coy.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\prism-coy.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\quill.bubble.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\quill.core.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\quill.core.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\quill.snow.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\quill.snow.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\responsive.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\responsive.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\rowReorder.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\rowReorder.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\scroller.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\scroller.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\select.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\select.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\simplemde.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\simplemde.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\star-rating.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\star-rating.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\style.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\swiper-bundle.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\swiper-bundle.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\tiny-slider.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\uppy.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\uppy.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\plugins\\vanillatree.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\vanillatree.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\style-preset.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style-preset.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\css\\uikit.css",
+      "PackagePath": "staticwebassets\\assets\\css\\uikit.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\feather.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\feather\\feather.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather.eot"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\feather\\feather.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\feather\\feather.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather.ttf"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\feather\\feather.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather.woff"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\material.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\material\\material.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material\\material.woff2"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.ttf"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.woff"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\phosphor\\duotone\\selection.json",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\selection.json"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\phosphor\\duotone\\style.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\style.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\tabler-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler-icons.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.eot"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.ttf"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.woff"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.woff2"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\card.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-accout-alert.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-accout-alert.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-accout-password-alert.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-accout-password-alert.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-brand-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-brand-1.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-brand-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-brand-2.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-brand-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-brand-3.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-brand-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-brand-4.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-brand-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-brand-5.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-brand-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-brand-6.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-community-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-community-bg.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-coupon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-coupon.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-empty-mail.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-empty-mail.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-gallery-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-gallery-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-gallery-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-3.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-gallery-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-4.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-gallery-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-5.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-gallery-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-6.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-gallery-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-7.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-gallery-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-8.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-mastercard.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-mastercard.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-pay-card-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-pay-card-bg.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-post-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-3.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-post-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-4.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-post-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-5.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-post-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-6.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-prod-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-prod-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-prod-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-3.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-prod-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-4.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-prod-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-5.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-prod-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-6.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-prod-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-7.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-prod-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-8.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-prod-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-9.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-prod-brand-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-brand-1.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-prod-brand-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-brand-2.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-prod-brand-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-brand-3.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-prod-brand-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-brand-4.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-prod-brand-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-brand-5.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-profile-cover.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-profile-cover.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-soc-gal-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-soc-gal-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-soc-gal-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-3.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-soc-gal-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-4.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-soc-gal-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-5.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-soc-gal-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-6.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-soc-gal-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-7.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-soc-gal-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-8.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-soc-gal-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-9.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-story-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-story-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-story-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-3.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-story-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-4.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-story-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-5.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-story-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-6.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-user-cover-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-user-cover-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-user-cover-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-3.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-user-cover-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-4.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-user-cover-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-5.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-user-cover-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-6.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-user-cover-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-7.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-user-cover-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-8.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\img-user-cover-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-9.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\mastercard.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\paypal.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\application\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\visa.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\authentication\\img-auth-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\img-auth-bg.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\authentication\\img-auth-code-varify.png",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\img-auth-code-varify.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\authentication\\img-auth-fporgot-password.png",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\img-auth-fporgot-password.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\authentication\\img-auth-login.png",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\img-auth-login.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\authentication\\img-auth-register.png",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\img-auth-register.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\authentication\\img-auth-reset-password.png",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\img-auth-reset-password.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\authentication\\sms.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\sms.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\component\\img-card.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\component\\img-card.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\component\\img-slide-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\component\\img-slide-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\component\\img-slide-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\component\\img-slide-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\component\\img-slide-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\component\\img-slide-3.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\customizer\\img-caption-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\img-caption-1.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\customizer\\img-caption-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\img-caption-2.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\customizer\\img-container-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\img-container-1.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\customizer\\img-container-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\img-container-2.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\customizer\\img-layout-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\img-layout-1.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\customizer\\img-layout-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\img-layout-2.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-10.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-11.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-12.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-13.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-14.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-15.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-16.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-7.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-8.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-9.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\client-crystal-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\client-crystal-1.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\client-eagames.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\client-eagames.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\client-haswent-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\client-haswent-2.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\client-vodafone.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\client-vodafone.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\icons\\figma.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\icons\\figma.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\icons\\js.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\icons\\js.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\icons\\mui.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\icons\\mui.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\icons\\react.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\icons\\react.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\icons\\ts.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\icons\\ts.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\img-board.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-board.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\img-click-prod.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-click-prod.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\img-counter-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-counter-bg.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\img-customer-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-customer-bg.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\img-dot-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-dot-bg.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\img-h-badge-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-h-badge-bg.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\img-header-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-header-bg.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\img-header-moke.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-header-moke.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\img-platform.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-platform.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\img-widget.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-widget.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\lay-compact.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\lay-compact.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\lay-horizontal.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\lay-horizontal.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\lay-layout2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\lay-layout2.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\lay-tab.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\lay-tab.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\lay-vertical.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\lay-vertical.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-app-calendar.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-app-calendar.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-app-chat.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-app-chat.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-app-ecommerce.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-app-ecommerce.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-app-gallery.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-app-gallery.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-app-inbox.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-app-inbox.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-app-invoice.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-app-invoice.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-app-social.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-app-social.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-important-account-profile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-important-account-profile.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-important-auth-page.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-important-auth-page.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-important-coming-soon.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-important-coming-soon.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-important-componets.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-important-componets.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-important-contact.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-important-contact.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-important-data-table.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-important-data-table.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-important-error.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-important-error.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-important-form.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-important-form.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-important-widgets.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-important-widgets.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-important-wizard.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-important-wizard.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-layouts-compact.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-layouts-compact.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-layouts-creative.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-layouts-creative.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-layouts-horizontal.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-layouts-horizontal.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-layouts-tab.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-layouts-tab.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-layouts-vertical.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-layouts-vertical.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-page-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-page-dark.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-page-landing.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-page-landing.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\preview-page-rtl.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\preview-page-rtl.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\techcard-angular.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\techcard-angular.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\techcard-bs.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\techcard-bs.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\techcard-cakephp.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\techcard-cakephp.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\techcard-django.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\techcard-django.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\techcard-figma.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\techcard-figma.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\techcard-laravel.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\techcard-laravel.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\techcard-mvc5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\techcard-mvc5.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\techcard-net.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\techcard-net.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\techcard-node.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\techcard-node.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\techcard-react.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\techcard-react.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\techcard-vue.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\techcard-vue.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\landing\\widget-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\widget-bg.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\layout\\img-profile-card.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layout\\img-profile-card.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\layout\\nav-card-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\layout\\nav-card-bg.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\light-box\\l1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l1.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\light-box\\l2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l2.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\light-box\\l3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l3.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\light-box\\l4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l4.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\light-box\\l5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l5.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\light-box\\l6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l6.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\light-box\\sl1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl1.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\light-box\\sl2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl2.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\light-box\\sl3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl3.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\light-box\\sl4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl4.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\light-box\\sl5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl5.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\light-box\\sl6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl6.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\logo-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-dark.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\logo-white.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-white.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\notification\\clock-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\clock-48.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\notification\\high_priority-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\high_priority-48.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\notification\\medium_priority-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\medium_priority-48.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\notification\\ok-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\ok-48.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\notification\\survey-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\survey-48.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\pages\\img-connection-lost.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-connection-lost.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\pages\\img-error-404.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-error-404.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\pages\\img-gallery-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\pages\\img-gallery-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\pages\\img-gallery-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-3.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\pages\\img-gallery-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-4.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\pages\\img-gallery-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-5.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\pages\\img-gallery-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-6.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\pages\\img-gallery-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-7.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\pages\\img-gallery-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-8.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\pages\\img-gallery-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-9.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\pages\\img-soon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-soon.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\pages\\img-under-maintenance.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-under-maintenance.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\rating\\star-empty.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\rating\\star-empty.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\rating\\star-full.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\rating\\star-full.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\slider\\img-slide-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\slider\\img-slide-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\slider\\img-slide-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-3.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\slider\\img-slide-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-4.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\slider\\img-slide-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-5.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\slider\\img-slide-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-6.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\slider\\img-slide-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-7.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\user\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\user\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-10.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\user\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\user\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-3.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\user\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-4.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\user\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-5.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\user\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-6.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\user\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-7.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\user\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-8.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\user\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-9.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\AUSTRALIA.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\AUSTRALIA.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\BRAZIL.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\BRAZIL.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\GERMANY.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\GERMANY.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\UK.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\UK.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\USA.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\USA.jpg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\img-earning-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-earning-bg.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\img-facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-facebook.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\img-google.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-google.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\img-status-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-1.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\img-status-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-2.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\img-status-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-3.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\img-status-4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-4.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\img-status-5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-5.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\img-status-6.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-6.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\img-status-7.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-7.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\img-status-8.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-8.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\img-status-9.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-9.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\img-twitter.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-twitter.svg"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\images\\widget\\img-visitor.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-visitor.png"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\component.js",
+      "PackagePath": "staticwebassets\\assets\\js\\component.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\fonts\\custom-font.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fonts\\custom-font.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\layout-compact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\layout-compact.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\layout-horizontal.js",
+      "PackagePath": "staticwebassets\\assets\\js\\layout-horizontal.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\layout-tab.js",
+      "PackagePath": "staticwebassets\\assets\\js\\layout-tab.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\ac-alert.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ac-alert.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\ac-datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ac-datepicker.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\ac-notification.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ac-notification.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\ac-rangeslider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ac-rangeslider.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\ac-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ac-slider.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\ac-tour.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ac-tour.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\ac-treeview.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ac-treeview.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\calendar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\calendar.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\canada.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\canada.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\chart-apex.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\chart-apex.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\dashboard-default.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboard-default.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\form-masking-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-masking-custom.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\form-validation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-validation.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\iraq.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\iraq.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\italy.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\italy.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\map-vector.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\map-vector.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\page-croper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\page-croper.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\russia.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\russia.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\spain.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\spain.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\us-aea-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\us-aea-en.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\us-lcc-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\us-lcc-en.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\us-merc-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\us-merc-en.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\us-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\us-mill-en.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pages\\w-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\w-chart.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\pcoded.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pcoded.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\Jarallax.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\Jarallax.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\autoFill.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\autoFill.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\bootstrap-switch-button.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-switch-button.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\bouncer.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bouncer.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\buttons.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\buttons.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\buttons.print.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\choices.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\choices.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\ckeditor\\balloon\\ckeditor.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\ckeditor\\balloon\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\ckeditor\\classic\\ckeditor.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\ckeditor\\classic\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\ckeditor\\document\\ckeditor.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\ckeditor\\document\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\ckeditor\\inline\\ckeditor.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\ckeditor\\inline\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\clipboard.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\croppr.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\croppr.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\dataTables.autoFill.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\dataTables.autoFill.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\dataTables.colReorder.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\dataTables.colReorder.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\dataTables.fixedColumns.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\dataTables.fixedColumns.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\dataTables.fixedHeader.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\dataTables.fixedHeader.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\dataTables.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\dataTables.rowReorder.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\dataTables.rowReorder.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\dataTables.select.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\datepicker-full.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\datepicker-full.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\dragula.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\dragula.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\dropzone-amd-module.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\dropzone-amd-module.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\feather.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\feather.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\flatpickr.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\flatpickr.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\imask.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\imask.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\index.global.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\index.global.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\intro.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\intro.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\jsvectormap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jsvectormap.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\jszip.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jszip.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\keyTable.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\keyTable.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\module.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\module.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\notifier.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\notifier.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\pdfmake.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\peity-vanilla.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\peity-vanilla.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\popper.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\prism.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\prism.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\quill.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\quill.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\responsive.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\responsive.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\scroller.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\scroller.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\simple-datatables.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\simple-datatables.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\simplebar.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\simplemde.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\simplemde.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\star-rating.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\star-rating.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\swiper-bundle.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\swiper-bundle.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tiny-slider.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\README.md",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\README.md"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\bower.json"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\composer.json",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\composer.json"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\icons\\default\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\icons\\default\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\license.txt"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\models\\dom\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\models\\dom\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\models\\dom\\model.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\models\\dom\\model.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\package.json",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\package.json"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\accordion\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\accordion\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\accordion\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\accordion\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\advlist\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\advlist\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\anchor\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\anchor\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\autolink\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\autolink\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\autoresize\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\autoresize\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\autosave\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\autosave\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\charmap\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\charmap\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\code\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\code\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\codesample\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\codesample\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\directionality\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\directionality\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\emoticons\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\emoticons\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\fullscreen\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\fullscreen\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\image\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\image\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\importcss\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\importcss\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\insertdatetime\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\insertdatetime\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\link\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\link\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\lists\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\lists\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\media\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\media\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\nonbreaking\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\nonbreaking\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\pagebreak\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\pagebreak\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\preview\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\preview\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\print\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\print\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\quickbars\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\quickbars\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\save\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\save\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\searchreplace\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\searchreplace\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\table\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\table\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\template\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\template\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\template\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\template\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\visualblocks\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\visualblocks\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\visualchars\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\visualchars\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\wordcount\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\wordcount\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\dark\\content.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\dark\\content.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\default\\content.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\default\\content.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\document\\content.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\document\\content.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\writer\\content.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\writer\\content.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\content.inline.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\content.inline.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\content.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\content.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\skin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\skin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\skin.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\skin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\skin.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\themes\\silver\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\themes\\silver\\index.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\type-ahead.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\type-ahead.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\uppy.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\uppy.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\vanillatree.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\vanillatree.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\vfs_fonts.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\wNumb.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\wNumb.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\wizard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\wizard.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\world-merc.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\world-merc.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\world.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\world.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\js\\plugins\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\wow.min.js"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\json\\2500.txt",
+      "PackagePath": "staticwebassets\\assets\\json\\2500.txt"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\json\\datatable.column.json",
+      "PackagePath": "staticwebassets\\assets\\json\\datatable.column.json"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\json\\datatable.json",
+      "PackagePath": "staticwebassets\\assets\\json\\datatable.json"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\json\\file-upload.php",
+      "PackagePath": "staticwebassets\\assets\\json\\file-upload.php"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\json\\lazy.json",
+      "PackagePath": "staticwebassets\\assets\\json\\lazy.json"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\json\\root.json",
+      "PackagePath": "staticwebassets\\assets\\json\\root.json"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\json\\typehead\\countries.json",
+      "PackagePath": "staticwebassets\\assets\\json\\typehead\\countries.json"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\json\\typehead\\movies.json",
+      "PackagePath": "staticwebassets\\assets\\json\\typehead\\movies.json"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\json\\typehead\\nba.json",
+      "PackagePath": "staticwebassets\\assets\\json\\typehead\\nba.json"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\json\\typehead\\nhl.json",
+      "PackagePath": "staticwebassets\\assets\\json\\typehead\\nhl.json"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\landing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\landing.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\settings\\_bootstrap-variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\settings\\_bootstrap-variables.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\settings\\_color-variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\settings\\_color-variables.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\settings\\_theme-variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\settings\\_theme-variables.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\style-preset.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style-preset.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\_general.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\_general.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\_generic.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\_generic.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\components\\_avtar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\components\\_avtar.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\components\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\components\\_badge.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\components\\_button.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\components\\_button.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\components\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\components\\_card.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\components\\_form.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\components\\_form.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\components\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\components\\_progress.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\components\\_table.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\components\\_table.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\components\\_tabs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\components\\_tabs.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\components\\_widget.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\components\\_widget.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\layouts\\_customizer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\layouts\\_customizer.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\layouts\\_pc-common.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\layouts\\_pc-common.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\layouts\\_pc-compact.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\layouts\\_pc-compact.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\layouts\\_pc-footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\layouts\\_pc-footer.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\layouts\\_pc-header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\layouts\\_pc-header.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\layouts\\_pc-horizontal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\layouts\\_pc-horizontal.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\layouts\\_pc-sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\layouts\\_pc-sidebar.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\layouts\\_pc-tab.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\layouts\\_pc-tab.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\layouts\\_style-dark.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\layouts\\_style-dark.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\layouts\\_style-rtl-utility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\layouts\\_style-rtl-utility.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\layouts\\_style-rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\layouts\\_style-rtl.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\pages\\_application.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\pages\\_application.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\pages\\_authentication.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\pages\\_authentication.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\pages\\_calendar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\pages\\_calendar.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\pages\\_chat.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\pages\\_chat.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\pages\\_e-commerce.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\pages\\_e-commerce.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\pages\\_file-manager.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\pages\\_file-manager.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\pages\\_icon-pages.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\pages\\_icon-pages.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\pages\\_kanban.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\pages\\_kanban.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\pages\\_mail.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\pages\\_mail.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\pages\\_maintaince.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\pages\\_maintaince.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\pages\\_pages.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\pages\\_pages.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\pages\\_price.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\pages\\_price.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\pages\\_user.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\pages\\_user.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\plugins\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\plugins\\_data-tables.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\plugins\\_daterange.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\plugins\\_daterange.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\plugins\\_lightbox.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\plugins\\_lightbox.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\plugins\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\plugins\\_modal.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\plugins\\_notification.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\plugins\\_notification.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\plugins\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\plugins\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\plugins\\_rangeslider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\plugins\\_rangeslider.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\plugins\\_slider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\plugins\\_slider.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\plugins\\_sweatalert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\plugins\\_sweatalert.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\plugins\\_switches.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\plugins\\_switches.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\themes\\plugins\\_tags-input.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\themes\\plugins\\_tags-input.scss"
+    },
+    {
+      "Id": "D:\\NEW\\Asp 8\\Light_able_ASP_MVC_v1.2.0\\ASP\\StarterKit\\Asp\\wwwroot\\assets\\scss\\uikit.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\uikit.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Asp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Asp.props",
+      "PackagePath": "build\\Asp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Asp.props",
+      "PackagePath": "buildMultiTargeting\\Asp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Asp.props",
+      "PackagePath": "buildTransitive\\Asp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

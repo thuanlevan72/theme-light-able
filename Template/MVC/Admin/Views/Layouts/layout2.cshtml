@@ -1,0 +1,87 @@
+﻿
+@{
+    ViewBag.Title = "layout 2";
+    ViewBag.pTitle = "Layout";
+    Layout = "~/Views/Shared/Layouts/Layout2Layout.cshtml";
+}
+
+<div class="row">
+    <!-- [ sample-page ] start -->
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-body">
+                <h5>Brand Color</h5>
+                <small>set background utility class in <code>.m-header</code> in sidebar</small>
+                <div class="row g-3 mt-3">
+                    <div class="col-auto">
+                        <a href="#" class="avtar avtar-s bg-brand-color-1" onclick="changebrand('bg-brand-color-1')">
+                            <i class="ph-duotone ph-paint-brush text-white f-18"></i>
+                        </a>
+                    </div>
+                    <div class="col-auto">
+                        <a href="#" class="avtar avtar-s bg-brand-color-2" onclick="changebrand('bg-brand-color-2')">
+                            <i class="ph-duotone ph-paint-brush text-white f-18"></i>
+                        </a>
+                    </div>
+                    <div class="col-auto">
+                        <a href="#" class="avtar avtar-s bg-brand-color-3" onclick="changebrand('bg-brand-color-3')">
+                            <i class="ph-duotone ph-paint-brush text-white f-18"></i>
+                        </a>
+                    </div>
+                    <div class="col-auto">
+                        <a href="#" class="avtar avtar-s bg-primary" onclick="changebrand('bg-primary')">
+                            <i class="ph-duotone ph-paint-brush text-white f-18"></i>
+                        </a>
+                    </div>
+                    <div class="col-auto">
+                        <a href="#" class="avtar avtar-s bg-secondary" onclick="changebrand('bg-secondary')">
+                            <i class="ph-duotone ph-paint-brush text-white f-18"></i>
+                        </a>
+                    </div>
+                    <div class="col-auto">
+                        <a href="#" class="avtar avtar-s bg-danger" onclick="changebrand('bg-danger')">
+                            <i class="ph-duotone ph-paint-brush text-white f-18"></i>
+                        </a>
+                    </div>
+                    <div class="col-auto">
+                        <a href="#" class="avtar avtar-s bg-success" onclick="changebrand('bg-success')">
+                            <i class="ph-duotone ph-paint-brush text-white f-18"></i>
+                        </a>
+                    </div>
+                    <div class="col-auto">
+                        <a href="#" class="avtar avtar-s bg-warning" onclick="changebrand('bg-warning')">
+                            <i class="ph-duotone ph-paint-brush text-white f-18"></i>
+                        </a>
+                    </div>
+                    <div class="col-auto">
+                        <a href="#" class="avtar avtar-s bg-info" onclick="changebrand('bg-info')">
+                            <i class="ph-duotone ph-paint-brush text-white f-18"></i>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- [ sample-page ] end -->
+    </div>
+    <!-- [ Main Content ] end -->
+</div>
+
+@section scripts{
+    <script>
+        document.querySelector('.pc-sidebar .m-header .badge').classList.add('bg-dark');
+        document.querySelector('.pc-sidebar .m-header .badge').classList.remove('bg-brand-color-2');
+        layout_sidebar_change('dark');
+        layout_caption_change('false');
+        if (document.querySelector('.pc-sidebar .m-header .logo-lg')) {
+            document.querySelector('.pc-sidebar .m-header .logo-lg').setAttribute('src', '~/assets/images/logo-white.svg');
+            document.querySelector('.pc-sidebar .m-header').classList.add('bg-brand-color-2');
+        }
+
+        function changebrand(temp) {
+            removeClassByPrefix(document.querySelector('.pc-sidebar .m-header'), "bg-");
+            document.querySelector('.pc-sidebar .m-header').classList.add(temp);
+        }
+    </script>
+
+}

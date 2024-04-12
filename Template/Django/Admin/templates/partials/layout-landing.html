@@ -1,0 +1,20 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% include './component/head-page-meta.html' %}
+    {% block css1 %} {% endblock css1 %}
+    {% include './component/head-css.html' %}
+    {% block css2 %} {% endblock css2 %}
+</head>
+
+<body data-pc-preset="preset-1" data-pc-sidebar-caption="true" data-pc-direction="ltr" data-pc-theme="light"
+  class="landing-page">
+  {% include "./component/loader.html" %}
+  {% block content %}{% endblock content %}
+  {% block js %}{% endblock js %}
+  {% include "./component/footer-js.html" %}
+  {% block js2 %}{% endblock js2 %}
+</body>
+</html>

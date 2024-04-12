@@ -1,0 +1,247 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Asp
+build_property.RootNamespace = Asp
+build_property.ProjectDir = D:\NEW\Asp 8\Light_able_ASP_MVC_v1.2.0\ASP\StarterKit\Asp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\NEW\Asp 8\Light_able_ASP_MVC_v1.2.0\ASP\StarterKit\Asp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/CodeVerificationV1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxDb2RlVmVyaWZpY2F0aW9uVjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/CodeVerificationV2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxDb2RlVmVyaWZpY2F0aW9uVjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/ComingSoon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxDb21pbmdTb29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/ConnectionLost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxDb25uZWN0aW9uTG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/ContactSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxDb250YWN0U2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFcnJvcjQwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/ForgotPasswordV1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxGb3Jnb3RQYXNzd29yZFYxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/ForgotPasswordV2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxGb3Jnb3RQYXNzd29yZFYyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/Loading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxMb2FkaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/LoginModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxMb2dpbk1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/LoginV1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxMb2dpblYxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/LoginV2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxMb2dpblYyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/RegisterV1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxSZWdpc3RlclYxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/RegisterV2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxSZWdpc3RlclYyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/ResetPasswordV1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxSZXNldFBhc3N3b3JkVjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/ResetPasswordV2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxSZXNldFBhc3N3b3JkVjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/SamplePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxTYW1wbGVQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/SearchPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxTZWFyY2hQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxTZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Page/UnderConstruction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxVbmRlckNvbnN0cnVjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/AuthFooterBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEF1dGhGb290ZXJCbG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/BlankLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEJsYW5rTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/BlankLayoutV2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEJsYW5rTGF5b3V0VjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Breadcrumb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEJyZWFkY3J1bWIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Component/ComponentBreadcrumb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudFxDb21wb25lbnRCcmVhZGNydW1iLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Component/ComponentFooterJs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudFxDb21wb25lbnRGb290ZXJKcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Component/ComponentHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudFxDb21wb25lbnRIZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Component/ComponentLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudFxDb21wb25lbnRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Component/ComponentMenuList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudFxDb21wb25lbnRNZW51TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Customizer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEN1c3RvbWl6ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/HeadCSS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhlYWRDU1MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/HeaderContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhlYWRlckNvbnRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/landinLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxhbmRpbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/LayoutCompact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dENvbXBhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Layouts/Layout2Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcTGF5b3V0MkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Layouts/LayoutCompactLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcTGF5b3V0Q29tcGFjdExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Layouts/LayoutHorizontalLayouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcTGF5b3V0SG9yaXpvbnRhbExheW91dHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Layouts/LayoutTabLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcTGF5b3V0VGFiTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Layouts/LayoutVerticalLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcTGF5b3V0VmVydGljYWxMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/LayoutTab.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFRhYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/LayoutVertical.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFZlcnRpY2FsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Loader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExvYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/MenuList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1lbnVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/SidebarCompact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNpZGViYXJDb21wYWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/SidebarTab.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNpZGViYXJUYWIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/TitleMeta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRpdGxlTWV0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/Topbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRvcGJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/VendorScripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZlbmRvclNjcmlwdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW/Asp 8/Light_able_ASP_MVC_v1.2.0/ASP/StarterKit/Asp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

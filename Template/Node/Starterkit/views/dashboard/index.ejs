@@ -1,0 +1,13 @@
+<%- contentFor('HeaderCss') %>
+<!-- map-vector css -->
+<link rel="stylesheet" href="/assets/css/plugins/jsvectormap.min.css">
+  <%- contentFor('body') %>
+<%- include('../partials/breadcrumb.ejs', {'breadcrumb_item': 'Dashboard' , 'breadcrumb_item_active' : 'Home' }) %>
+   
+      <%- contentFor('FooterJs') %>
+          <!-- [Page Specific JS] start -->
+          <script src="/assets/js/plugins/apexcharts.min.js"></script>
+          <script src="/assets/js/plugins/jsvectormap.min.js"></script>
+          <script src="/assets/js/plugins/world.js"></script>
+          <script src="/assets/js/plugins/world-merc.js"></script>
+          <script src="/assets/js/pages/dashboard-default.js"></script>

@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Tree View";
+    ViewBag.text = "Standalone tree view library";
+    ViewBag.link = "https://github.com/finom/vanillatree";
+    Layout = "~/Views/Shared/Component/ComponentLayout.cshtml";
+}
+
+
+@section styles{
+    <link rel="stylesheet" href="~/assets/css/plugins/vanillatree.css">
+
+    <link rel="stylesheet" href="~/assets/css/uikit.css">
+
+}
+
+<div class="row">
+    <!-- [ rangeslider ] start -->
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header">
+                <h5>HTML Demo</h5>
+            </div>
+            <div class="card-body">
+                <div id="tree-demo"> </div>
+                <p id="tree-msg"></p>
+            </div>
+        </div>
+    </div>
+    <!-- [ rangeslider ] end -->
+</div>
+
+@section scripts{
+    <script src="~/assets/js/plugins/vanillatree.min.js"></script>
+    <script src="~/assets/js/pages/ac-treeview.js"></script>
+}

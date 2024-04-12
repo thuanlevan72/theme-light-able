@@ -1,0 +1,19 @@
+<%- contentFor('HeaderCss') %>
+  <%- contentFor('body') %>
+    <%- include('../partials/breadcrumb.ejs', {'breadcrumb_item': 'Layout' , 'breadcrumb_item_active' :'Layout 2'}) %>
+
+      <%- contentFor('FooterJs') %>
+  <script>
+    document.querySelector('.pc-sidebar .m-header .badge').classList.add('bg-dark');
+    document.querySelector('.pc-sidebar .m-header .badge').classList.remove('bg-brand-color-2');
+    layout_sidebar_change('dark');
+    layout_caption_change('false');
+    if (document.querySelector('.pc-sidebar .m-header .logo-lg')) {
+      document.querySelector('.pc-sidebar .m-header .logo-lg').setAttribute('src', '../assets/images/logo-white.svg');
+      document.querySelector('.pc-sidebar .m-header').classList.add('bg-brand-color-2');
+    }
+    function changebrand(temp) {
+      removeClassByPrefix(document.querySelector('.pc-sidebar .m-header'), "bg-");
+      document.querySelector('.pc-sidebar .m-header').classList.add(temp);
+    }
+  </script>

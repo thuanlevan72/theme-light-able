@@ -1,0 +1,25 @@
+{% extends "partials/layout-component.html" %} {% load static %}
+{% block css1 %}
+<link rel="stylesheet" href={% static "/css/plugins/vanillatree.css" %} />
+{% endblock css1 %}
+{% block content %}
+<div class="row">
+  <!-- [ rangeslider ] start -->
+  <div class="col-sm-12">
+    <div class="card">
+      <div class="card-header">
+        <h5>HTML Demo</h5>
+      </div>
+      <div class="card-body">
+        <div id="tree-demo"> </div>
+        <p id="tree-msg"></p>
+      </div>
+    </div>
+  </div>
+  <!-- [ rangeslider ] end -->
+</div>
+{% endblock content %}
+{% block js2 %}
+<script src={% static "/js/plugins/vanillatree.min.js" %}></script>
+<script src={% static "/js/pages/ac-treeview.js" %}></script>
+{% endblock js2 %}

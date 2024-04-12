@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    @Html.Partial("~/Views/Shared/TitleMeta.cshtml")
+
+    @RenderSection("styles", required: false)
+
+    @Html.Partial("~/Views/Shared/HeadCSS.cshtml")
+</head>
+<body data-pc-preset="preset-1" data-pc-sidebar-theme="light" data-pc-sidebar-caption="true" data-pc-direction="ltr" data-pc-theme="light" class="component-page">
+
+    @Html.Partial("~/Views/Shared/loader.cshtml")
+
+    @Html.Partial("~/Views/Shared/Component/ComponentHeader.cshtml")
+    <section class="component-block">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-3">
+
+                    @Html.Partial("~/Views/Shared/Component/ComponentMenuList.cshtml")
+                </div>
+                <div class="col-xl-9">
+                    <div class="row">
+
+                        @Html.Partial("~/Views/Shared/Component/ComponentBreadcrumb.cshtml")
+                    </div>
+
+
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+    </section>
+
+    @Html.Partial("~/Views/Shared/Component/ComponentFooterJs.cshtml")
+
+    @Html.Partial("~/Views/Shared/VendorScripts.cshtml")
+
+    @RenderSection("scripts", required: false)
+
+    @Html.Partial("~/Views/Shared/Customizer.cshtml")
+
+</body>
+</html>

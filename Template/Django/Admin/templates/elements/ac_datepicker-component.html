@@ -1,0 +1,87 @@
+{% extends "partials/layout-component.html" %} {% load static %}
+{% block css1 %}
+<link rel="stylesheet" href={% static "/css/plugins/datepicker-bs5.min.css" %} />
+{% endblock css1 %}
+{% block content %}
+<div class="row">
+  <!-- [ bootstrap-datetimepicker ] start -->
+  <div class="col-xl-4 col-md-6">
+    <div class="card">
+      <div class="card-header">
+        <h5>Days of Week Disabled</h5>
+      </div>
+      <div class="card-body">
+        <input type="text" class="form-control" id="d_week" />
+      </div>
+    </div>
+  </div>
+  <div class="col-xl-4 col-md-6">
+    <div class="card">
+      <div class="card-header">
+        <h5>Days of Week Highlighted</h5>
+      </div>
+      <div class="card-body">
+        <input type="text" class="form-control" id="d_highlight" />
+      </div>
+    </div>
+  </div>
+  <div class="col-xl-4 col-md-6">
+    <div class="card">
+      <div class="card-header">
+        <h5>AutoClose</h5>
+      </div>
+      <div class="card-body">
+        <input type="text" class="form-control" id="d_auto" />
+      </div>
+    </div>
+  </div>
+  <div class="col-xl-4 col-md-6">
+    <div class="card">
+      <div class="card-header">
+        <h5>DatesDisabled</h5>
+      </div>
+      <div class="card-body">
+        <input type="text" class="form-control" id="d_disable" />
+      </div>
+    </div>
+  </div>
+  <div class="col-xl-4 col-md-6">
+    <div class="card">
+      <div class="card-header">
+        <h5>Today Highlight</h5>
+      </div>
+      <div class="card-body">
+        <input type="text" class="form-control" id="d_today" />
+      </div>
+    </div>
+  </div>
+  <div class="col-xl-4 col-md-6">
+    <div class="card">
+      <div class="card-header">
+        <h5>Calendar Weeks</h5>
+      </div>
+      <div class="card-body">
+        <input type="text" class="form-control" id="disp_week" />
+      </div>
+    </div>
+  </div>
+  <div class="col-xl-8 col-md-6">
+    <div class="card">
+      <div class="card-header">
+        <h5>Date Range</h5>
+      </div>
+      <div class="card-body">
+        <div class="input-daterange input-group" id="datepicker_range">
+          <input type="text" class="form-control text-left" placeholder="Start date" name="range-start" />
+          <input type="text" class="form-control text-end" placeholder="End date" name="range-end" />
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- [ bootstrap-datetimepicker ] End -->
+</div>
+{% endblock content %}
+{% block js2 %}
+<script src={% static "/js/plugins/datepicker-full.min.js" %}></script>
+<script src={% static "/js/pages/ac-datepicker.js" %}></script>
+{% endblock js2 %}

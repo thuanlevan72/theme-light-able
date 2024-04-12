@@ -1,0 +1,35 @@
+<%- include ('../partials/main') %>
+
+    <head>
+        <%- include ('../partials/title-meta') %>
+            <%- HeaderCss %>
+                <%- include ('../partials/head-css') %>
+    </head>
+
+    <%- include ('../partials/body') %>
+        <%- include('./loader.ejs') %>
+            <%- include('./sidebar.ejs') %>
+                <%- include('./topbar.ejs') %>
+
+
+                    <!-- Start Main Content -->
+                    <div class="main-container navbar-sticky flex" :class="[$store.app.navbar]">
+                        <%- include ('../partials/sidebar') %>
+                            <!-- Start Content Area -->
+                            <div class="main-content flex-1">
+                                <%- include ('../partials/navbar') %>
+                                    <!-- Start Content -->
+                                    <div class="h-[calc(100vh-73px)] overflow-y-auto overflow-x-hidden">
+                                        <%- body%>
+                                            <%- include ('../partials/footer') %>
+                                    </div>
+                            </div>
+                            <%- include ('../partials/right-sidebar') %>
+                    </div>
+                    <%- include ('../partials/vendor-scripts') %>
+                        <%- FooterJs %>
+                            <!-- Custom js -->
+                            <script src="/assets/js/custom.js"></script>
+                            </body>
+
+                            </html>

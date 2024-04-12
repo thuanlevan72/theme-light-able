@@ -1,0 +1,25 @@
+<%- include ('../partials/main') %>
+
+<head>
+    <%- include ('../partials/title-meta') %>
+    <%- HeaderCss %>
+    <%- include ('../partials/head-css') %>
+</head>
+<body  <%=bodySetup %>  data-pc-direction="ltr">
+<%- include('../partials/layout-compact.ejs') %>
+    <!-- [ Main Content ] start -->
+    <div class="pc-container">
+        <div class="pc-content">
+            <%- body%>
+        </div>
+    </div>
+
+    <%- include ('../partials/footer-block') %>
+    <%- include ('../partials/footer-js') %>
+    <%- include ('../partials/customizer') %>
+    <%- FooterJs %>
+    <script src="/assets/js/layout-compact.js"></script>
+
+</body>
+
+</html>

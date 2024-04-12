@@ -1,0 +1,22 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+  <!-- [Head] start -->
+
+  <head>
+    {% include './component/head-page-meta.html' %}
+    {% block css1 %} {% endblock css1 %}
+    {% include './component/head-css.html' %}
+  </head>
+  <!-- [Head] end -->
+  <!-- [Body] Start -->
+
+  <body data-pc-preset="preset-1" data-pc-sidebar-caption="true" data-pc-direction="ltr" data-pc-theme="light" class="landing-page">
+    {% include "./component/loader.html" %}
+    {% block content %}{% endblock content %}
+    {% include "./component/footer-js.html" %}
+    {% block js2 %}{% endblock js2 %}
+    {% include "./component/customizer.html" %}
+  </body>
+  <!-- [Body] end -->
+</html>

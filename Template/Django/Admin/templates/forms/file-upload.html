@@ -1,0 +1,30 @@
+{% extends "partials/layout.html" %} {% load static %}
+{% block css1 %}
+    <link rel="stylesheet" href={% static "/css/plugins/dropzone.min.css" %} />
+{% endblock css1 %}
+{% block content %}
+        <div class="row">
+          <!-- [ file-upload ] start -->
+          <div class="col-sm-12">
+            <div class="card">
+              <div class="card-header">
+                <h5>File Upload</h5>
+              </div>
+              <div class="card-body">
+                <form action="/json/file-upload.php" class="dropzone">
+                  <div class="fallback">
+                    <input name="file" type="file" multiple />
+                  </div>
+                </form>
+                <div class="text-center m-t-20">
+                  <button class="btn btn-primary">Upload Now</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- [ file-upload ] end -->
+        </div>
+{% endblock content %}
+{% block js2 %}
+<script src={% static "/js/plugins/dropzone-amd-module.min.js" %}></script>
+{% endblock js2 %}

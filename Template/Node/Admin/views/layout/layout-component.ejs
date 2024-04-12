@@ -1,0 +1,32 @@
+<%- include('../partials/main') %>
+
+<head>
+    <%- include('../partials/title-meta') %>
+        <%- HeaderCss %>
+    <%- include('../partials/head-css') %>
+    <link rel="stylesheet" href="/assets/css/uikit.css">
+</head>
+
+<body <%=bodySetup %> class="component-page">
+    <%- include('../partials/loader.ejs') %>
+    <%- include('../partials/component/component-header') %>
+        <section class="component-block">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-3">
+                        <%- include('../partials/component/component-menu-list') %>
+                    </div>
+                    <div class="col-xl-9">
+                            <%- body%>
+                    </div>
+                </div>
+            </div>
+        </section>
+    <%- include('../partials/footer-js') %>
+    <%- include('../partials/component/layout-component-footer-js') %>
+    <%- include('../partials/customizer') %>
+
+<%- FooterJs %>
+</body>
+
+</html>

@@ -1,0 +1,44 @@
+<%- contentFor('HeaderCss') %>
+  <link rel="stylesheet" href="/assets/css/plugins/style.css">
+
+  <%- contentFor('body') %>
+    <%- include('../partials/breadcrumb.ejs',{'breadcrumb_item': 'Table' , 'breadcrumb_item_active' : 'Fetch API' }) %>
+
+      <!-- [ Main Content ] start -->
+      <div class="row">
+        <!-- [ basic-table ] start -->
+        <div class="col-xl-12">
+          <div class="card">
+            <div class="card-header">
+              <h5>Fetch API</h5>
+            </div>
+            <div class="card-body table-border-style">
+              <div class="table-responsive">
+                <table class="table" id="pc-dt-fetchapi"> </table>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- [ basic-table ] end -->
+      </div>
+      <!-- [ Main Content ] end -->
+      <%- contentFor('FooterJs') %>
+        <!-- [Page Specific JS] start -->
+        <script src="/assets/js/plugins/simple-datatables.js"></script>
+        <script>
+          fetch('../assets/json/datatable.json')
+            .then((response) => response.json())
+            .then((data) => {
+              if (!data.length) {
+                return;
+              }
+
+              let table = new simpleDatatables.DataTable('#pc-dt-fetchapi', {
+                data: {
+                  headings: Object.keys(data[0]),
+                  data: data.map((item) => Object.values(item))
+                }
+              });
+            });
+        </script>
+        <!-- [Page Specific JS] end -->

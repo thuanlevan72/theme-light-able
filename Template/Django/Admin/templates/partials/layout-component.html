@@ -1,0 +1,43 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+
+<head>
+    {% include './component/head-page-meta.html' %}
+    {% block css1 %}{% endblock css1 %}
+    {% include "./component/head-css.html" %}
+    <link rel="stylesheet" href={% static "/css/uikit.css" %} />
+    {% block css2 %}{% endblock css2 %}
+</head>
+
+<body class="component-page" data-pc-preset="preset-1" data-pc-sidebar-theme="light" data-pc-sidebar-caption="true" data-pc-direction="ltr" data-pc-theme="light" class="component-page" data-new-gr-c-s-check-loaded="8.911.0" data-gr-ext-installed="">
+    <!-- [ Main Content ] start -->
+    {% include "./component/loader.html" %}
+    {% include "./component/component-header.html" %}
+    <section class="component-block">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-3"> 
+                    {% include "./component/component-menu-list.html" %}
+                </div>
+                <div class="col-xl-9">
+                    <div class="row">
+                        {% include "./component/component-breadcrumb.html" %}
+                    </div>
+                    <!-- [ Main Content ] start -->
+                    {% block content %}{% endblock content %}
+                    <!-- [ Main Content ] end -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- [ Main Content ] end -->
+    {% block content2 %}{% endblock content2 %}
+    {% include "./component/footer-js.html" %}
+    {% include "./component/layout-component-footer-js.html" %}
+    <!-- [Page Specific JS] start -->
+    {% block js2 %}{% endblock js2 %}
+    {% include "./component/customizer.html" %}
+</body>
+
+</html>

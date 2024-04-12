@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    @Html.Partial("~/Views/Shared/TitleMeta.cshtml")
+
+    @RenderSection("styles", required: false)
+
+    @Html.Partial("~/Views/Shared/HeadCSS.cshtml")
+</head>
+<body data-pc-preset="preset-1" data-pc-sidebar-theme="light" data-pc-sidebar-caption="true" data-pc-direction="ltr" data-pc-theme="light">
+
+    @Html.Partial("~/Views/Shared/Loader.cshtml")
+
+    <div class="auth-main v2">
+        <div class="bg-overlay bg-dark"></div>
+        <div class="auth-wrapper">
+            <div class="auth-sidecontent">
+
+                @Html.Partial("~/Views/Shared/AuthFooterBlock.cshtml")
+                </div>
+                @RenderBody()
+
+
+        @Html.Partial("~/Views/Shared/VendorScripts.cshtml")
+
+        @Html.Partial("~/Views/Shared/Customizer.cshtml")
+</body>
+
+</html>

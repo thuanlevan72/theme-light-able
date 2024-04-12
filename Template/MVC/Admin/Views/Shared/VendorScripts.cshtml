@@ -1,0 +1,21 @@
+﻿<!-- Required Js -->
+<script src="~/assets/js/plugins/popper.min.js"></script>
+<script src="~/assets/js/plugins/simplebar.min.js"></script>
+<script src="~/assets/js/plugins/bootstrap.min.js"></script>
+<script src="~/assets/js/fonts/custom-font.js"></script>
+<script src="~/assets/js/pcoded.js"></script>
+<script src="~/assets/js/plugins/feather.min.js"></script>
+
+<script>
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        dark_layout = 'true';
+    } else {
+        dark_layout = 'false';
+    }
+    layout_change_default();
+    if (dark_layout == 'true') {
+        layout_change('dark');
+    } else {
+        layout_change('light');
+    }
+</script>

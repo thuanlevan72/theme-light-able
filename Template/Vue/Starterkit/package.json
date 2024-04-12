@@ -1,0 +1,93 @@
+{
+  "name": "LightAble",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@amcharts/amcharts4": "^4.10.38",
+    "@amcharts/amcharts4-geodata": "^4.1.28",
+    "@fullcalendar/bootstrap": "^6.1.10",
+    "@fullcalendar/core": "^6.1.10",
+    "@fullcalendar/daygrid": "^6.1.10",
+    "@fullcalendar/interaction": "^6.1.10",
+    "@fullcalendar/list": "^6.1.10",
+    "@fullcalendar/timegrid": "^6.1.10",
+    "@fullcalendar/vue3": "^6.1.10",
+    "@phosphor-icons/vue": "^2.1.6",
+    "@popperjs/core": "^2.11.8",
+    "@tabler/icons-vue": "^2.43.0",
+    "@vueform/slider": "^2.1.10",
+    "@vuelidate/core": "^2.0.3",
+    "@vuelidate/validators": "^2.0.4",
+    "@zhuowenli/vue-feather-icons": "^5.0.2",
+    "add": "^2.0.6",
+    "aos": "^2.3.4",
+    "apexcharts": "^3.44.2",
+    "bootstrap": "^5.3.2",
+    "bootstrap-vue-next": "^0.15.5",
+    "core-js": "^3.34.0",
+    "defined": "^1.0.1",
+    "echarts": "^5.4.3",
+    "form-wizard-vue3": "^1.1.0",
+    "is": "^3.3.0",
+    "jquery": "^3.7.1",
+    "metismenujs": "^1.4.0",
+    "moment": "^2.29.4",
+    "multi-range-slider-vue": "^1.1.4",
+    "not": "^0.1.0",
+    "peity": "^3.3.0",
+    "prismjs": "^1.29.0",
+    "sass": "^1.69.5",
+    "sass-loader": "^13.3.2",
+    "simplebar-vue": "^2.3.3",
+    "sweetalert2": "^11.10.1",
+    "swiper": "^11.0.5",
+    "vue": "^3.3.11",
+    "vue-cropperjs": "^5.0.0",
+    "vue-easy-lightbox": "^1.16.0",
+    "vue-flatpickr-component": "^11.0.3",
+    "vue-loading-overlay": "^6.0.3",
+    "vue-router": "^4.2.5",
+    "vue3-apexcharts": "^1.4.4",
+    "vue3-google-map": "^0.18.0",
+    "vuex": "^4.1.0",
+    "yarn": "^1.22.21"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {
+      "vue/multi-word-component-names": "off",
+      "vue/no-deprecated-slot-attribute": "off",
+      "no-mixed-spaces-and-tabs": 0
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
